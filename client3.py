@@ -45,7 +45,7 @@ def getRatio(price_a, price_b):
     """ Also create some unit tests for this function in client_test.py """
     return price_a / price_b
 
-
+# why do not count
 # Main
 if __name__ == "__main__":
 
